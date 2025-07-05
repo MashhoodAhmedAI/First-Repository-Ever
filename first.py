@@ -4,3 +4,4 @@ for i in range(10):
         print("Square of even number:",i*i)
     else:
         print("Odd Number:",i)
+        print("Square of odd numbers:",i*i)
