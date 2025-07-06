@@ -5,3 +5,5 @@ for i in range(10):
     else:
         print("Odd Number:",i)
         print("Square of odd numbers:",i*i)
+    print("Checking difftool")
+
